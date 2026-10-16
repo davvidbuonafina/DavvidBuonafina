@@ -34,8 +34,7 @@
 </a>
   <a href="http://www.linkedin.com/in/davvid-buonafina-63173b354">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-  <a href="mailto:davvid.buonafina@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=davvid.buonafina@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <h2>⚙️ Estatísticas GitHub</h2>
