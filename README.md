@@ -68,4 +68,21 @@
       </a>
     </td>
   </tr>
-</table>
+</table><h2>📞📨 Contato</h2>
+
+<div align="center">
+
+<a href="https://wa.me/5561999079599">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="40">
+</a>
+<a href="https://www.instagram.com/davvidbuonafina">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40">
+</a>
+<a href="http://www.linkedin.com/in/davvid-buonafina-63173b354">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+</a>
+<a href="https://mail.google.com/mail/?view=cm&to=davvid.buonafina@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40">
+</a>
+
+</div>
