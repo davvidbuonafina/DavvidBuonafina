@@ -11,8 +11,6 @@
 </div>
 <h2>📜📚Cursos e certificações.</h2>
 
-<div align="center">
-
 <table>
   <tr>
     <td valign="middle">☑️</td>
@@ -44,7 +42,6 @@
   </tr>
 </table>
 
-</div>
 
 <h2>📞📨 Contato <h2>
 <a href="https://wa.me/5561999079599">
