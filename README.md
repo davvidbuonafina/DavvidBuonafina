@@ -1,6 +1,6 @@
 ## 💻👦🏻 Olá, me chamo Davvid.
 
- 👨🏻‍💻</> "Cursando análise de sistemas e buscando uma oportunidade na área de TI."</>
+ 👨🏻‍💻</> Cursando análise de sistemas e buscando uma oportunidade na área de TI.</>
 
 ### Um pouco sobre mim:
 <div>
